@@ -5,9 +5,7 @@
 
 ![Ivo GitHub stats](https://github-readme-stats.vercel.app/api?username=ivovilar1&show_icons=true&theme=tokyonight)
 
-### Dev júnior atuando trabalhando com as tecnologia:
-<div style="display:inline_block"><br/>
-  <img align="center" alt="Laravel" src="https://pt.wikipedia.org/wiki/Laravel#/media/Ficheiro:Laravel.svg"/>
-  <img align="center" alt="VueJs" src="https://br.vuejs.org/images/logo.svg"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</div>
+### Dev júnior atualmente trabalhando com as tecnologias:
+* Laravel
+* Vuejs
+>
