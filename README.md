@@ -68,7 +68,7 @@
     </td>
     <td align="center" width="96">
       <a href="#mysql">
-        <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
@@ -108,4 +108,5 @@
 </table>
 
 <hr>
+
 ![Ivo GitHub stats](https://github-readme-stats.vercel.app/api?username=ivovilar1&show_icons=true&theme=tokyonight)
